@@ -1,0 +1,9 @@
+# No external dependencies required.
+# This project uses only Python standard library modules:
+#   - tkinter (GUI)
+#   - json    (file persistence)
+#   - os      (file system checks)
+#
+# Make sure Python 3.8+ is installed.
+# On Linux, install tkinter separately if needed:
+#   sudo apt-get install python3-tk
